@@ -5,6 +5,6 @@ The goal is to prepare tidy data that can be used for later analysis.
 This repo includes the following: 
 1) a tidy data set as an output of transformations applied to raw data.
 2) run.analysis.R script which is used to create an output file tidy.data.txt
-2) a code book that describes the variables, the data, and any transformations or work that have been performed to clean up the data called CodeBook.md. 
-3) README.md
+3) a code book that describes the variables, the data, and any transformations or work that have been performed to clean up the data called CodeBook.md. 
+4) README.md
 The above files fully explain how all of the scripts work and how they are connected.
